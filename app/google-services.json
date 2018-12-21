@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "886605895608",
+    "firebase_url": "https://videostream-7950f.firebaseio.com",
+    "project_id": "videostream-7950f",
+    "storage_bucket": "videostream-7950f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886605895608:android:a70148910cb63407",
+        "android_client_info": {
+          "package_name": "com.example.videostream"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886605895608-6mgia6bfc404lb2jij9ia0d5vk61qiqr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.videostream",
+            "certificate_hash": "aadedaefcc419b096e44bf162c7a975fa6ed4a6c"
+          }
+        },
+        {
+          "client_id": "886605895608-5ni3f3epqa4216li1jgl58epp0mm264o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClEq0upjZxLxuur21uUHN_dcHjkTZ4FIs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886605895608-5ni3f3epqa4216li1jgl58epp0mm264o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
